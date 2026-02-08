@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm S. A. Janani Somasiri</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janani-create&label=Profile%20views&color=0e75b6&style=flat" alt="janani-create" /> </p>
 
 - 🔭 I’m currently working on **Test**
